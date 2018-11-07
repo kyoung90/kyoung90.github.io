@@ -1,11 +1,11 @@
 # Site settings
-author: Kenneth
-title: Title
+author: Kenneth Young Castro
+title: My Coding Journey
 header-img: img/home-bg.png
 email: kenneth.young90@gmail.com
-copyright_name: Kenneth
+copyright_name: Kenneth Young Castro
 description: > # this means to ignore newlines until "baseurl:"
-  SubTitle
+  Learning How To Build Coding Projects
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kyoung90
