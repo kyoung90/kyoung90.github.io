@@ -1,11 +1,11 @@
 # Site settings
-author: Kenneth Young Castro
-title: 
+author: Kenneth
+title: Title
 header-img: img/home-bg.png
 email: kenneth.young90@gmail.com
-copyright_name: Kenneth Young Castro
+copyright_name: Kenneth
 description: > # this means to ignore newlines until "baseurl:"
-  
+  SubTitle
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kyoung90
