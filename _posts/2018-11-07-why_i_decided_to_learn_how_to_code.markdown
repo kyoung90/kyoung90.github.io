@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why I Decided to Learn How To Code"
-date:       2018-11-07 22:13:44 +0000
+title:      "Why I Decided To Learn How To Code"
+date:       2018-11-07 17:13:44 -0500
 permalink:  why_i_decided_to_learn_how_to_code
 ---
 
