@@ -6,7 +6,7 @@ permalink:  idid_portfolio_with_sinatra
 ---
 
 
-### What is it?
+### **What is it?**
 
 It is a simple portfolio website. It stores all your different projects, helping people keep track of their achievements. This is especially useful to keep record and feel proud of what you've done. 
 
@@ -15,12 +15,12 @@ It is a simple portfolio website. It stores all your different projects, helping
 * Look at popular projects to see what is being done by others 
 * Look at liked projects to see what people enjoy seeing
 
-### Demo
+### **Demo**
 
 Test the site [here](https://ididportfolio.herokuapp.com).
 
 
-### Future Work
+### **Future Work**
 
 Some features to add would be: 
 * filter projects based on views, likes
@@ -33,7 +33,7 @@ Some features to add would be:
 
 Feel free to add suggestions on my [github](https://github.com/kyoung90/iDidPortfolio) :)!
 
-### My experience 
+### **My experience** 
 
 I had a blast working with Sinatra. It is very similar to nodejs, which I have had previous experience working with in the past. I used [corneal](https://github.com/thebrianemory/corneal), which is a ruby gem that allows you to generate websites with Sinatra way faster. I highly recommend it to anyone using Sinatra. 
 
