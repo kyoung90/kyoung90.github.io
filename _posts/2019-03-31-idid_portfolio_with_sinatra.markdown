@@ -15,7 +15,7 @@ It is a simple portfolio website. It stores all your different projects, helping
 * Look at popular projects to see what is being done by others 
 * Look at liked projects to see what people enjoy seeing
 
-### **Demo**
+### Demo
 
 Test the site [here](https://ididportfolio.herokuapp.com).
 
