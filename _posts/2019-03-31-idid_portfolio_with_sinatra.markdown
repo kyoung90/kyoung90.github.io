@@ -39,7 +39,7 @@ I had a blast working with Sinatra. It is very similar to nodejs, which I have h
 
 For this project, I wanted to make a website as practical as possible. I learned that keeping track of your successes and accomplishments is an excellent skill for the 21st century. To help others with this, I wanted to make a tool to make this easier than it is, since it isn't being done my many. It would impact a lot of people's lives in a positive way. 
 
-Design is vital to a website. If a website doesn't look good, it won't be used. I applied bootstrap to help make the page look nicer, but it is something I want to revisit afterwards to make it more useful, attactive, and intuitive. 
+Design is vital to a website. If a website doesn't look good, it won't be used. I applied bootstrap to help make the page look nicer, but it is something I want to revisit afterwards to make it more useful, attractive, and intuitive. 
 
 I will keep working on this idea when I gather more knowledge and skills to improve it. If it improves the life of just one person, then it will have definitely been worth it.
 
