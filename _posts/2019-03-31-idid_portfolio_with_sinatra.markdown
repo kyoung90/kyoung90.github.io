@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "iDid Portfolio With Sinatra"
-date:       2019-04-01 01:18:58 +0000
+date:       2019-03-31 21:18:58 -0400
 permalink:  idid_portfolio_with_sinatra
 ---
 
@@ -21,7 +21,7 @@ It is a simple portfolio website. It stores all your different projects, helping
 
 ### Future Work
 
-* Some features to add would be: 
+Some features to add would be: 
 * filter projects based on views, likes
 * add tags to projects
 * filter projects based on tags
