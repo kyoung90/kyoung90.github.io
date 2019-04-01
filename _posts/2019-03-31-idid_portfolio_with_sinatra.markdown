@@ -6,10 +6,6 @@ permalink:  idid_portfolio_with_sinatra
 ---
 
 
-### **Demo**
-
-Test the site [here](https://ididportfolio.herokuapp.com).
-
 ### What is it?
 
 It is a simple portfolio website. It stores all your different projects, helping people keep track of their achievements. This is especially useful to keep record and feel proud of what you've done. 
@@ -18,6 +14,11 @@ It is a simple portfolio website. It stores all your different projects, helping
 * It lets you look at other people's projects, letting you have a better idea of what they have worked with.  
 * Look at popular projects to see what is being done by others 
 * Look at liked projects to see what people enjoy seeing
+
+### **Demo**
+
+Test the site [here](https://ididportfolio.herokuapp.com).
+
 
 ### Future Work
 
