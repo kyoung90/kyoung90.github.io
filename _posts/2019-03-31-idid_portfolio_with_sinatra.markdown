@@ -10,6 +10,7 @@ permalink:  idid_portfolio_with_sinatra
 
 It is a simple portfolio website. It stores all your different projects, helping people keep track of their achievements. This is especially useful to keep record and feel proud of what you've done. 
 
+Features:
 * You can store pictures and links of all those tutorials you've done or all those final projects of classes that just get forgotten most of the time. 
 * It lets you look at other people's projects, letting you have a better idea of what they have worked with.  
 * Look at popular projects to see what is being done by others 
