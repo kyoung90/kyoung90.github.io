@@ -30,7 +30,7 @@ A website that allows you to buy an internet package plan. It keeps track of you
 * automatically disconnect users with expired service periods links
 * Feel free to add suggestions on my github :)!
 
-**My Thoughts On Rails **
+**My Thoughts On Rails**
 
 Rails is a very powerful framework for ruby. It has a very marked learning curve. At first, it is difficult to use. You have to stick to a lot of naming conventions that doesn't leave room for errors. Anything named incorrectly can and will cause problems. With that being said, once you get the hang of it it speeds development process by a lot. There is just too much that Rails does for you and helps you do under the covers. It handles the repetitive work so you can only focus on what makes your project unique. 
 
