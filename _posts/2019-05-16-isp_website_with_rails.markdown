@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "ISP Website With Rails"
-date:       2019-05-16 12:49:20 +0000
+date:       2019-05-16 08:49:20 -0400
 permalink:  isp_website_with_rails
 ---
 
 
-**What is it?
+**What is it?**
 
 A website that allows you to buy an internet package plan. It keeps track of your payment history, service periods, and internet status changes. It connects to a router through the mtik gem and makes changes to pppoe profiles. This is a skeleton project to communicate with different routers and store information on a website. No payment API has been implemented yet.
 
