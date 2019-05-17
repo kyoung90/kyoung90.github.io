@@ -32,11 +32,11 @@ A website that allows you to buy an internet package plan. It keeps track of you
 
 **My Thoughts On Rails**
 
-Rails is a very powerful framework for ruby. It has a very marked learning curve. At first, it is difficult to use. You have to stick to a lot of naming conventions that doesn't leave room for errors. Anything named incorrectly can and will cause problems. With that being said, once you get the hang of it it speeds development process by a lot. There is just too much that Rails does for you and helps you do under the covers. It handles the repetitive work so you can only focus on what makes your project unique. 
+Rails is a powerful framework for ruby. It has a marked learning curve. At first, it is difficult to use. You have to stick to a lot of naming conventions that doesn't leave room for errors. Anything named incorrectly can and will cause problems. With that being said, once you get the hang of it it speeds development process by a lot. There is just too much that Rails does for you and helps you do under the covers. It handles the repetitive work so you can focus on what makes your project unique. 
 
 **My Experience**
 
-For this project, I had access to some network equipment (access points, router switch, etc). I decided to try to use it as a challenge to myself and keep things interesting. I had never worked with any network equipment before, so I went to a friend of mine that helped me setup the hardware part. It took a quite a while just to be able to message the router switch with code, much more to make it do what we wanted it to do.  
+For this project, I had access to some network equipment (access points, router switch, etc). I decided to try to use it as a challenge to myself and keep things interesting. I had never worked with any network equipment before, so I went to a friend of mine that helped me setup the hardware part. It took a quite a while just to be able to message the router switch with code, much more to make it do what we wanted.  
 
  There isn't a lot of examples or documentation on the subject of router communications with ruby. The idea here is to provide a skeleton to help out other developers with similar problems. A basic router command is to change the pppoe profile of a user, so I made it around that. It can and should be modified to meet the specific needs.
 
