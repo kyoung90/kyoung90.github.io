@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "ISP Website With Rails And AJAX"
-date:       2019-06-20 03:50:08 +0000
+date:       2019-06-19 23:50:09 -0400
 permalink:  isp_website_with_rails_and_ajax
 ---
 
@@ -39,6 +39,6 @@ This project was different from others. I had to build on an existing rails proj
 
 I gotta say, learning how to use AJAX makes a ton of difference. The end result feels more smooth, and more production like. Having that knowledge on how to build your own API gives you another level of understanding of code.  It helps deal with impostor syndrome. 
 
-API's no longer feel as magical once you know how to do them yourself. How easy it is to do with rails is ridiculous (in a great way!). The strange part about AJAX is having to mix up javascript, html, and css, all from different files. The code gets clunky. This is where react could make a difference. It could help by making reusable components with their own logic all together. That would solve the main issues about just using jQuery and rails
+API's no longer feel as magical once you know how to do them yourself. How easy it is to do with rails is ridiculous (in a great way!). The strange part about AJAX is having to mix up Javascript, HTML, and CSS, all from different files. The code gets clunky. This is where react could make a difference. It could help by making reusable components with their own logic all together. That would solve the main issues about just using jQuery and rails.
 
 I can't wait to mix this up with react. It feels like it is the next step to becoming a developer in today's world. It is one of the main components that empower you to feel confident building projects.
