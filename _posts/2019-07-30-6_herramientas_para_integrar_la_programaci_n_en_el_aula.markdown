@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "6 HERRAMIENTAS PARA INTEGRAR LA PROGRAMACIÓN EN EL AULA"
-date:       2019-07-30 20:40:09 +0000
+date:       2019-07-30 16:40:10 -0400
 permalink:  6_herramientas_para_integrar_la_programaci_n_en_el_aula
 ---
 
