@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Recursion Explained With Example"
-date:       2019-09-05 01:27:46 +0000
+date:       2019-09-04 21:27:47 -0400
 permalink:  recursion_explained_with_example
 ---
 
@@ -32,46 +32,46 @@ sumRange(5)
 return 5 + sumRange(5-1)
 return 5 + sumRange(4)
 
-                       //sumRange(4) gets called and since its not 0 again, it returns num + sumRange(num -1)
-											 return 4 + sumRange(4-1)
-											 return 4 + sumRange(3)
+        //sumRange(4) gets called and since its not 0 again, it returns num + sumRange(num -1)
+			  return 4 + sumRange(4-1)
+				return 4 + sumRange(3)
 											 
-											                     //sumRange(3) gets called and since its not 0 again, it returns num + sumRange(num-1)
-																					 return 3 + sumRange(3-1)
-																					 return 3 + sumRange(2)
+								//sumRange(3) gets called and since its not 0 again, it returns num + sumRange(num-1)
+								return 3 + sumRange(3-1)
+								return 3 + sumRange(2)
 																					 
-																					                       //sumRange(2) gets called and since its not 0 again, it returns num + sumRange(num-1)
-																					                       return 2 + sumRange(2-1)
-																					                       return 2 + sumRange(1)
+												 //sumRange(2) gets called and since its not 0 again, it returns num + sumRange(num-1)
+												 return 2 + sumRange(2-1)
+												 return 2 + sumRange(1)
 																																 
-																																                       //sumRange(1) gets called and since its not 0 again, it returns num + sumRange(num-1)
-																					                                            return 1 + sumRange(1-1)
-																					                                            return 1 + sumRange(0)
+																						//sumRange(1) gets called and since its not 0 again, it returns num + sumRange(num-1)
+																					  return 1 + sumRange(1-1)
+																					  return 1 + sumRange(0)
 																																											
-																																											//THIS IS WHERE WE HIT THE BASE CASE
-																																											//sumRange(0) gets called and since its 0, THIS TIME it returns 0, an actual number
-																																											//AT THIS POINT, its starts solving backwards
-																																										                        sumRange(0) = 0
+																									//THIS IS WHERE WE HIT THE BASE CASE
+																									//sumRange(0) gets called and since its 0, THIS TIME it returns 0, an actual number
+																									//AT THIS POINT, its starts solving backwards
+																									sumRange(0) = 0
 																																																						
-																																												return 1 + sumRange(0)
-																																												return 1 + 0
-																																												return 1
-																																												sumRange(1) = 1
+																									return 1 + sumRange(0)
+																									return 1 + 0
+																									return 1
+																									sumRange(1) = 1
 																																												
-																																	return 2 + sumRange(1)
-																																	return 2 + 1
-																																	return 3
-																																	sumRange(2) = 3
+																			return 2 + sumRange(1)
+																			return 2 + 1
+																			return 3
+																			sumRange(2) = 3
 																																	
-																						return 3 + sumRange(2)
-																						return 3 + 3
-																						return 6
-																						sumRange(3) = 6
+									return 3 + sumRange(2)
+									return 3 + 3
+									return 6
+									sumRange(3) = 6
 												
-												return 4 + sumRange(3)
-												return 4 + 6
-												return 10
-												sumRange(4) = 10
+					return 4 + sumRange(3)
+					return 4 + 6
+				  return 10
+					sumRange(4) = 10
 												
 return 5 + sumRange(4)
 return 5 + 10
