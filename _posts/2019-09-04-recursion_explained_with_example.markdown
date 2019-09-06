@@ -10,7 +10,7 @@ Most programmers have heard of this concept and fear it. They tend to stay away 
 
 ## What is recursion?
 
-Recursion is when a function  calls itself. I know that sounds strange. When one is coding, its very unusual for you to make a function call itself, but it does have use cases. It often comes up in binary search trees. Here is an example of recursion for a simpler problem:
+Recursion is when a function  calls itself. I know that sounds strange. When one is coding, its very unusual for you to make a function call itself, but it can be useful. It often comes up in binary search trees. Here is an example of recursion for a simpler problem:
 
 ```
 //Returns the sum of all numbers from 0 to a given integer
