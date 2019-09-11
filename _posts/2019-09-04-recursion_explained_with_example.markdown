@@ -25,61 +25,9 @@ function sumRange(num){
 
 The important thing to keep in mind about recursion is that it is a **different** way of thinking. The code doesn't get solved from beginning to end, it actually solves from the end backwards. Here is how the computer would solve it:
 
-```
-sumRange(5)
 
-//Since number is not 0, it returns num + sumRange(num -1)
-return 5 + sumRange(5-1)
-return 5 + sumRange(4)
+![Recursion](https://i.imgur.com/1Q7tCAe.gif) 
 
-       //sumRange(4) gets called and since its not 0 again, it returns num + sumRange(num -1)
-			return 4 + sumRange(4-1)
-		  return 4 + sumRange(3)
-											 
-					//sumRange(3) gets called and since its not 0 again, it returns num + sumRange(num-1)
-					return 3 + sumRange(3-1)
-					return 3 + sumRange(2)
-																					 
-										//sumRange(2) gets called and since its not 0 again, it returns num + sumRange(num-1)
-										return 2 + sumRange(2-1)
-										return 2 + sumRange(1)
-																																 
-															//sumRange(1) gets called and since its not 0 again, it returns num + sumRange(num-1)
-															return 1 + sumRange(1-1)
-															return 1 + sumRange(0)
-																																											
-																			//THIS IS WHERE WE HIT THE BASE CASE
-																			//sumRange(0) gets called and since its 0, THIS TIME it returns 0, an actual number
-																			//AT THIS POINT, its starts solving backwards
-																			sumRange(0) = 0
-																																																						
-															return 1 + sumRange(0)
-															return 1 + 0
-															return 1
-															sumRange(1) = 1
-																																												
-											return 2 + sumRange(1)
-											return 2 + 1
-											return 3
-										 sumRange(2) = 3
-																																	
-							return 3 + sumRange(2)
-							return 3 + 3
-							return 6
-							sumRange(3) = 6
-												
-			return 4 + sumRange(3)
-			return 4 + 6
-			return 10
-			sumRange(4) = 10
-												
-return 5 + sumRange(4)
-return 5 + 10
-return 15
-sumRange(5) = 15
-																																																																									
-																					 
-```
 
 This is how the computer would solve a problem recursively. Hopefully I didn't lose you there. The good thing about this, is you don't actually have to solve iteration by iteration, you just give the function a pattern to follow.
 
