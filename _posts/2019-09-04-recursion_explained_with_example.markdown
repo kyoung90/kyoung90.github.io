@@ -26,7 +26,7 @@ function sumRange(num){
 The important thing to keep in mind about recursion is that it is a **different** way of thinking. The code doesn't get solved from beginning to end, it actually solves from the end backwards. Here is how the computer would solve it:
 
 
-![Recursion](https://i.imgur.com/1Q7tCAe.gif) 
+![Recursion Gif](https://i.imgur.com/TCzJil7.gif)
 
 
 This is how the computer would solve a problem recursively. Hopefully I didn't lose you there. The good thing about this, is you don't actually have to solve iteration by iteration, you just give the function a pattern to follow.
